@@ -2,7 +2,7 @@
 
 **Nombre del estudiante:** Diyer Arley Torres Troya  
 
-**Carrera:** Compiutación  
+**Carrera:** Computación  
 
 **Semestre:** 1er Ciclo  
 
