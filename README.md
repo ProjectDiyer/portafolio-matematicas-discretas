@@ -1,12 +1,11 @@
 # Portafolio de Matemáticas Discretas
 
-**Nombre del estudiante:**  
-**Carrera:**  
-**Semestre:**  
-**Docente:**  
-**Asignatura:** Matemáticas Discretas  
-**Periodo Académico:**  
-**Paralelo:**  
+**Nombre del estudiante:** Diyer Arley Torres Troya  
+**Carrera:** Compiutación  
+**Semestre:** 1er Ciclo  
+**Docente:** Mario Enrique Cueva Hurtado  
+**Asignatura:** Matemáticas Discretas    
+**Paralelo:** A  
 
 ---
 
