@@ -1,6 +1,6 @@
 # Unidad 1 – Matemáticas Discretas
 
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](../README.md)
 
 En esta unidad se recopilan las actividades realizadas dentro de los apartados APE, ACD y AA.
 
@@ -62,4 +62,4 @@ En este apartado se presenta el **enlace a la carpeta de Google Drive** donde se
 
 ---
 
-[⬅️ Volver al inicio](README.md)
+[⬅️ Volver al inicio](../README.md)
