@@ -5,8 +5,10 @@
 En esta unidad se recopilan las actividades realizadas dentro de los apartados APE, ACD y AA.
 
 ---
+APE
+---
 
-## 🟦 APE – Resolución de Ejercicios
+### 🟦 APE – Resolución de Ejercicios
 
 **Descripción:**  
 Fue un trabajo grupal donde se realizaron ejercicios sobre las *proposiciones* y *tablas de verdad*.
@@ -15,8 +17,10 @@ Fue un trabajo grupal donde se realizaron ejercicios sobre las *proposiciones* y
 [Resolución de Ejercicios – Proposiciones y Tablas de Verdad](https://drive.google.com/file/d/1Fnm3H0gCpWVHbkODAv9ORxaWlAYWGKX0/view?usp=sharing)
 
 ---
+ACD
+---
 
-## 🟩 ACD1 – Lógica Proposicional, Conectores y Tablas de Verdad
+### 🟩 ACD1 – Lógica Proposicional, Conectores y Tablas de Verdad
 
 **Descripción:**  
 Fue un trabajo grupal donde se realizó una **presentación para clase invertida** sobre los *conceptos fundamentales de la lógica proposicional*.
@@ -26,7 +30,7 @@ Fue un trabajo grupal donde se realizó una **presentación para clase invertida
 
 ---
 
-## 🟩 ACD2 – Implicaciones, Equivalencias y Razonamiento Deductivo
+### 🟩 ACD2 – Implicaciones, Equivalencias y Razonamiento Deductivo
 
 **Descripción:**  
 Fue una consulta individual sobre *leyes proposicionales* y *reglas de inferencia*, elaborada en diapositivas.
@@ -35,8 +39,10 @@ Fue una consulta individual sobre *leyes proposicionales* y *reglas de inferenci
 [Consulta – Leyes Proposicionales y Reglas de Inferencia](https://docs.google.com/presentation/d/1BZAwCU6prlTOCHFzrK_NdVI-i0QtdvAA/edit?usp=sharing&ouid=109964091381391683514&rtpof=true&sd=true)
 
 ---
+AA
+---
 
-## 🟧 AA1 – Lectura y Ejercicios
+### 🟧 AA1 – Lectura y Ejercicios
 
 **Descripción:**  
 Se realizaron dos ejercicios aplicando *leyes proposicionales* y *reglas de inferencia*.
@@ -46,7 +52,7 @@ Se realizaron dos ejercicios aplicando *leyes proposicionales* y *reglas de infe
 
 ---
 
-## 🟧 AA2 – Portafolio de Matemáticas Discretas
+### 🟧 AA2 – Portafolio de Matemáticas Discretas
 
 **Descripción:**  
 En este apartado se presenta el **enlace a la carpeta de Google Drive** donde se encuentran organizadas todas las actividades realizadas en la asignatura, incluyendo evidencias, documentos, presentaciones y materiales correspondientes al desarrollo del portafolio.
